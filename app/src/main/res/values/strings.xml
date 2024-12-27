@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Digitalcard</string>
+    <string name="personal_info">Personal Info</string>
+    <string name="Full_name">full name\n</string>
+    <string name="About_Me">About Me\n</string>
+    <string name="Contact">Contact\n</string>
+    <string name="Whatsup">Whats up\n</string>
+    <string name="email">Email\n</string>
+    <string name="Address">Address</string>
+</resources>
