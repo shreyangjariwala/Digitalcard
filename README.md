@@ -31,6 +31,6 @@ Information Screen
 - Custom dialog
 
 
-<img ![sp](https://github.com/user-attachments/assets/b542bf38-e01f-4416-bb54-03e006d98a4d)/>
-<img ![personal1](https://github.com/user-attachments/assets/b31b7ad4-3e47-46b2-a28a-7151a10a3b5f)/>
-<img ![personal2](https://github.com/user-attachments/assets/4da27254-371d-42a4-874e-31975d9db224)/>
+<img ![sp](https://github.com/user-attachments/assets/b542bf38-e01f-4416-bb54-03e006d98a4d)>
+<img ![personal1](https://github.com/user-attachments/assets/b31b7ad4-3e47-46b2-a28a-7151a10a3b5f)>
+<img ![personal2](https://github.com/user-attachments/assets/4da27254-371d-42a4-874e-31975d9db224)>
